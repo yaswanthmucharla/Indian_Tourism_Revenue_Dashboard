@@ -35,5 +35,5 @@ Power BI for data visualization and dashboard creation.
 
 Excel data source containing extensive tourism metrics for India.
 
-Excel_file_link:
+Excel_file_link:https://github.com/yaswanthmucharla/Indian_Tourism_Revenue_Dashboard/blob/main/India_Tourism_2015_2024.xlsx
 Powerbi_dashboard_link:https://github.com/yaswanthmucharla/Indian_Tourism_Revenue_Dashboard/blob/main/Tourism_Dashboard.png
