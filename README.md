@@ -35,12 +35,5 @@ Power BI for data visualization and dashboard creation.
 
 Excel data source containing extensive tourism metrics for India.
 
-How to Use
-Clone or download the repository.
-
-Open the Power BI file to explore the interactive dashboard.
-
-Use slicers for year and state selection to tailor reports.
-
-Analyze trends, revenues, and visitor patterns visually and geographically.
-
+Excel_file_link:
+Powerbi_dashboard_link:https://github.com/yaswanthmucharla/Indian_Tourism_Revenue_Dashboard/blob/main/Tourism_Dashboard.png
