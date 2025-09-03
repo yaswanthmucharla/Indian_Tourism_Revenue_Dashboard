@@ -5,8 +5,9 @@ This project presents a comprehensive Tourism Revenue and Interest Analysis Dash
 
 The dashboard is designed to provide actionable insights through interactive visuals and geospatial mapping, enabling stakeholders to understand tourism trends, revenue distribution, and visitor behavior across Indian states and regions.
 
-Problem Statement
-Tourism is a major contributor to India’s economy, providing revenue and employment across diverse states and Union Territories. However, due to the vast geographical spread, varying visitor preferences, and multiple categories of tourism such as cultural, pilgrimage, heritage, nature, beaches, adventure, and medical, it becomes challenging to identify which states and categories drive the most value.
+Problem Statement:
+
+Tourism is a major contributor to India’s economy approximately 5.9% GDP contribution is providing from tourism to india, providing revenue and employment across diverse states and Union Territories. However, due to the vast geographical spread, varying visitor preferences, and multiple categories of tourism such as cultural, pilgrimage, heritage, nature, beaches, adventure, and medical, it becomes challenging to identify which states and categories drive the most value.
 
 Policymakers, planners, and businesses often lack a consolidated, interactive, and visual representation of tourism data to make data-driven decisions. Without such insights, opportunities for focused investment, targeted marketing, and strategic development in tourism remain underutilized.
 
