@@ -97,7 +97,7 @@ Charts used for Visualization:
 1.Total Tourism Revenue by Year (Line Chart)
 2.Total Tourism Revenue by State (Bar Chart) top 10
 3.Domestic vs International Visitors by Year (Stacked  Bar Chart)
-4.Revenue by Segment Over Time (Area chart)
+4.Revenue by Segment Over Time (Linechart)
 5.Geographical Distribution (Map)
 6.Interactive Slicers (For Year, State)
 
