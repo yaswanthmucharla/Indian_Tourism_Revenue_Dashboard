@@ -1,8 +1,10 @@
 India Tourism Revenue and Interest Analysis Dashboard
-Project Overview
+
+Project Overview:
 This project presents a comprehensive Tourism Revenue and Interest Analysis Dashboard for India, capturing tourism dynamics from 2015 to 2024. It integrates diverse data types including tourism revenue, visitor counts (domestic and international), and detailed segment revenues such as cultural, pilgrimage, heritage, nature, beaches, adventure, and medical tourism.
 
 The dashboard is designed to provide actionable insights through interactive visuals and geospatial mapping, enabling stakeholders to understand tourism trends, revenue distribution, and visitor behavior across Indian states and regions.
+
 Problem Statement
 Tourism is a major contributor to India’s economy, providing revenue and employment across diverse states and Union Territories. However, due to the vast geographical spread, varying visitor preferences, and multiple categories of tourism such as cultural, pilgrimage, heritage, nature, beaches, adventure, and medical, it becomes challenging to identify which states and categories drive the most value.
 
