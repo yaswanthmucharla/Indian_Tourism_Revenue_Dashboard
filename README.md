@@ -1,11 +1,11 @@
-India Tourism Revenue and Interest Analysis Dashboard
+## India Tourism Revenue and Interest Analysis Dashboard
 
-Project Overview:
+## Project Overview:
 This project presents a comprehensive Tourism Revenue and Interest Analysis Dashboard for India, capturing tourism dynamics from 2015 to 2024. It integrates diverse data types including tourism revenue, visitor counts (domestic and international), and detailed segment revenues such as cultural, pilgrimage, heritage, nature, beaches, adventure, and medical tourism.
 
 The dashboard is designed to provide actionable insights through interactive visuals and geospatial mapping, enabling stakeholders to understand tourism trends, revenue distribution, and visitor behavior across Indian states and regions.
 
-Problem Statement:
+## Problem Statement:
 
 Tourism is a major contributor to India’s economy approximately 5.9% GDP contribution is providing from tourism to india, providing revenue and employment across diverse states and Union Territories. However, due to the vast geographical spread, varying visitor preferences, and multiple categories of tourism such as cultural, pilgrimage, heritage, nature, beaches, adventure, and medical, it becomes challenging to identify which states and categories drive the most value.
 
@@ -15,7 +15,7 @@ This project aims to analyze and visualize tourism revenue, visitor data, and ca
 
 
 
-Key Features
+## Key Features
 Total Revenue & Visitors Overview: Quick-glance cards summarizing total tourism revenue, domestic and international visitor numbers.
 
 Yearly Revenue Trend: Line chart highlighting the annual growth of tourism revenue over a decade.
@@ -30,7 +30,7 @@ Interactive Filters: Select year(s) and state(s) to dynamically filter and explo
 
 Geo Mapping: Interactive map showcasing visitor interest and distribution geographically by state.
 
-Purpose and Benefits
+## Purpose and Benefits
 Enables data-driven decision making for government and tourism authorities.
 
 Identifies high-performing states and sectors within the tourism industry.
@@ -41,7 +41,7 @@ Supports targeted policy formulation and marketing efforts to boost tourism.
 
 Enhances understanding of niche tourism segments to develop focused strategies.
 
-Technologies Used:
+## Technologies Used:
 1.Excel data source containing extensive tourism metrics for India.
 
 Excel Work
@@ -67,7 +67,7 @@ Example (for Cultural Revenue):
 Repeated for Pilgrimage, Heritage, Nature, Beaches, Adventure, and Medical.
 
 
-Data Validation
+## Data Validation
 
 Ensured category percentages per row ≈ 100%.
 2.Power BI for data visualization and dashboard creation.
@@ -96,7 +96,7 @@ Adventure_Revenue = SUM('TourismData'[Adventure_Revenue])
 11. Medical Revenue
 Medical_Revenue = SUM('TourismData'[Medical_Revenue])
 
-Charts used for Visualization:
+## Charts used for Visualization:
 1.Total Tourism Revenue by Year (Line Chart)
 2.Total Tourism Revenue by State (Bar Chart) top 10
 3.Domestic vs International Visitors by Year (Stacked  Bar Chart)
